@@ -1,0 +1,28 @@
+Gob:0:5:1:0:0:0:0:Humanoid
+Wallcrawler:1:10:5:0:0:0:0:Beast
+HobGob:0:8:2:1:0:0:0:Humanoid
+Apparition:0:0:1:0:10:0:0:Apparition
+Skeleton:0:5:3:0:1:0:0:Humanoid
+Ectoplasm:0:0:2:0:7:0:0:Apparition
+Ghoul:0:10:2:2:0:0:0:Humanoid
+Wounded dog:0:5:3:2:0:0:0:Beast
+Ghost:0:0:3:1:10:0:0:Apparition
+Night Stalker:0:7:2:2:5:0:0:Humanoid
+Gob:0:10:1:0:0:0:0:Humanoid
+Wallcrawler:1:10:5:0:0:0:0:Beast
+HobGob:1:8:2:1:0:0:0:Humanoid
+Apparition:1:0:1:1:15:0:0:Apparition
+Degenerate:1:10:2:2:0:0:0:Humanoid
+Big Nasty Thing OMG WHAT:0:50:20:0:0:1:4:Humanoid
+Champion Gob:0:15:5:1:0:0:0:Humanoid
+King's ghost:1:0:0:0:30:0:0:Apparition
+The Hunter:0:30:5:0:0:0:0:Humanoid
+The Beast:0:100:2:2:5:0:0:Beast
+Undead Knight:0:25:5:3:10:0:0:Humanoid
+The Silent:0:30:2:5:30:0:0:Apparition
+The Relentless:0:10:2:3:50:0:0:Apparition
+The King:0:60:7:2:30:0:0:Apparition
+The Poor:0:20:2:3:50:0:0:Apparition
+
+Name:Init:Life:Atk:Def:Resilience:Status:Ctr/Map:Humanoid
+15 BASE / 10 CHAMPIONS / 25 TOTAL

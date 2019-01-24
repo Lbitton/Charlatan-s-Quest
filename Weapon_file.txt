@@ -1,0 +1,33 @@
+Broken sword:1:0:5:0:Some dead guy's sword.
+Shield and Sword:1:1:30:0:The basic.
+Rusty axe:2:0:25:0:Good and pratical.
+Two handed axe:4:-2:50:0:Twice as good, half as pratical.
+Dual blade:5:-3:70:0:You're juste showing off now.
+Bow:1:1:55:0:A bow
+Flail:-1:-3:130:8:Touch everyone
+Sorcerer Staff:0:0:4:150:For the manavore.
+Gunsword:0:0:200:9:Otherworldy
+Bronze Shield:1:5:100:0:Sturdy shield.
+Cathodic tube:18:18:18:0:A joke the devs should have deleted.
+Cursed Sword:8:0:100:10:It demands blood, even if it kills you.
+
+
+
+
+
+
+
+"name":bonusATK:bonusDEF:price:"descript_bonus"
+
+
+MEME ID POUR ARMOR ET WEAPON ?
+1 - epine (à faire)
+2 - bonus popo (à faire)
+3 - Stress max (à faire)
+4 - regen mana (à faire)
+5 - all enemies have initiative (à faire)
+6 - all enemies loss initiative (à faire)
+7 - ??? void carved (à faire)
+8 - Flail, touche tout le monde ??? (à faire)
+9 - GUnsword ??? (à faire)
+10 - cursed sword, no def (à faire)

@@ -1,0 +1,26 @@
+Small Chest:You've opened the small wooden chest, you gained :15:1:0:1:0:0:0:0
+Wooden Box:You've smashed open the wooden box. It contained:10:0:1:0:0:0:0:0
+Jewel case:You've carefully opened the small case, however a needle got stuck in your hand.:27:0:0:2:0:1:0:0
+Dead body:Someone has hidden a little stack of gold inside the poor fella's guts. However, you feel sick after plunging your hands in his stomach.:30:0:0:0:0:2:2:0
+Crested chest:You've unlocked the crested chest. A shiny bounty is before your eyes.:50:1:1:0:0:0:0:1
+Dirty glass case:You've unlocked the glass case. However, it was trapped !!:20:0:1:1:0:3:0:1
+Mutilated corpse:You've searched the corpse, to no avail. But, the sight of your deeds was so foul, you had to puke afterwards..:0:0:0:0:0:1:0:0
+Locked drawer:Every other furniture is empty, but this drawer was locked. Strange, you decided to open it... And you did good !:50:2:2:0:0:0:0:1
+Shaking box:The box stopped shaking as you got near. As soon as you opened it slightly, a huge rat jumped on your face and scratched it. After killing the animal, you realize that, aside from the box being dirty, the latter was also empty:0:0:0:0:3:0:0:0
+Big chest:You shakingly put the key in the lock and.... Gaze upon a treasure worthy of your ambitions:100:1:1:1:0:0:0:1
+Tombstone:You've dug into the recenly made grave:15:1:0:1:0:0:0:0
+Tombstone:Nothing good comes from what's impure:0:0:0:0:0:3:0:0
+Little box:You smashed the box bare handed:20:0:0:2:0:2:0:0
+Dead body:Someone has hidden a little stack of gold inside the poor fella's guts.:30:0:0:0:0:0:0:0
+Crested chest:You've unlocked the crested chest. A shiny bounty is before your eyes.:100:1:1:0:0:0:0:1
+Dirty glass case:You've unlocked the glass case.:20:0:1:1:0:0:0:1
+Mutilated animal:Poor thing... You cannot allow yourself to do this. You turn your feet away in disgust.:0:0:0:0:0:1:0:0
+Locked safebox:This safe looks sturdy, but surprisingly, one of the keys you've had fits in.:150:2:2:0:0:0:0:1
+Locked safebox:This safe looks sturdy, but surprisingly, one of the keys you've had fits in. To your surprise, it was empty, safe for a rat that scartched your hand.:0:0:0:0:0:1:0:1
+Big chest:You shakingly put the key in the lock and.... Gaze emptyness and despair:0:0:0:0:0:0:0:1
+
+
+
+
+
+Name:Display:Gold:LP:MP:Keys:Gear:Damage:Status:Locked // COUNTER = 20

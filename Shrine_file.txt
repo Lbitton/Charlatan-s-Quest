@@ -1,0 +1,10 @@
+Shrine of the Raven:Kneel to the raven and gain 1 def:You kneeled in front of the onyx raven. You gained 1 def.:0:0:0:1:0:0:0:0:0
+Shrine of the Owl:Kneel to the owl and gain 1 detection:You kneeled in front of the emerauld owl. You gained 1 detection.:0:0:0:0:0:0:1:0:0
+Shrine to the Stars:Pray the stars and gain 5maxHP and 5maxMana:You prayed the firmament, maxhp +5, maxMana +5.:5:5:0:0:0:0:0:0:0
+Shrine to the Charlatan:A familiar face... It oozes with deceit. I wouldn't do it but, hey, that's just me:A laughter echoed afar. hpMax-1. Told you:-1:0:0:0:0:0:0:0:0
+Shrine of the Meek:The god of the smallfolk doesn't give much but He askes for nothing. +1 hpMax.: The shrine doesn't bulge, makes no sound. As if you weren't worth it. 1hpmax:1:0:0:0:0:0:0:0:0
+Shrine of the Builder:Kneel to those who build this world. One blueprint:On the walls, appears your reward.:0:0:0:0:0:0:0:0:1
+Forgotten Shrine:The stone head is missing, you don't recognize the name. +2 atk, +5 stress:You made an oath to the Unknown for a reward. Where will your soul drift?:0:0:2:0:5:0:0:0:0
+The Corpse of the Warmonger:You can hear its pulse still whispering. +5 atk, - 5 def:It pulses in your ears. Blood for the God of Blood.:0:0:5:-5:0:0:0:0:0
+Golden Shrine: Blood for gold, -2hp, +50 gold:Maybe greed is a sin for a good reason:0:0:0:0:0:-2:0:50:0
+ 

@@ -1,0 +1,33 @@
+Sinister Room:0:0:1:0:0:0:4:3
+Candlelit Room:0:0:10:0:0:0:1:1
+Empty Room:0:0:5:0:0:0:1:2
+Guarded Room:3:1:1:1:0:1:1:1
+Guarded Room:3:3:5:3:0:2:0:2
+Cold Jail:3:5:1:1:1:0:3:1
+Shrine Room:1:0:5:0:0:0:8:1
+Sinister Room:2:0:1:0:0:0:4:3
+Candlelit Room:0:0:10:0:0:0:1:1
+Empty Room:2:0:5:0:0:0:1:2
+Guarded Place:3:1:1:1:0:1:1:1
+Sinister Room:4:0:1:0:0:0:4:3
+Candlelit Room:4:0:10:0:0:0:1:1
+Empty Room:0:0:5:0:0:0:1:2
+Guarded Room:3:1:1:1:0:1:1:1
+Ritual room:3:3:5:3:0:2:0:2
+Ritual room:2:0:1:1:1:0:3:1
+Ritual room:1:0:5:0:0:0:8:1
+Garnison:3:0:1:3:0:0:4:3
+Ruin:2:0:10:0:1:0:1:1
+Ancient Ruin:1:0:1:0:0:0:4:3
+Ruin:3:0:10:2:1:0:1:1
+Otherwordly Ruin:1:0:5:0:0:0:1:2
+Guarded Room:3:1:1:1:0:1:1:1
+Guarded Room:3:3:5:3:0:2:0:2
+Warm Jail:3:0:1:1:1:0:3:1
+Shrine Room:1:0:5:0:0:0:8:1
+Eerie statue:3:0:1:0:0:0:4:3
+Eerie statue:1:0:10:0:0:0:1:1
+Bloodbath:3:0:5:2:1:0:1:2
+
+
+Nom  / type / danger  /  siRepos  /  NbrEnemy?  / VILLAGEOIS /   idSearch /  ScoutDiff / NbrSalleSuivante? 

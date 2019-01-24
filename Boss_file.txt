@@ -1,0 +1,7 @@
+Sleeping Giant:0:100:15:5:1:1:Beast
+Mind Flayer:0:55:10:2:2:0:Humanoid
+Abyss Watcher:0:60:7:2:10:0:Humanoid
+Dominion:0:70:7:7:7:0:Apparition
+Calamity:0:90:15:0:0:0:Beast
+
+Name:Initiative:LifeM:ManaM:Atk:Def:Res:Stun:Type

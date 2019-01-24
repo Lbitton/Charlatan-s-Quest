@@ -1,0 +1,32 @@
+Mailplate:0:1:5:0:Some dead guy's mailplate.
+Steel helmet:0:1:5:0:Some dead guy's helmet.
+Armor leggings:0:1:5:0:Some dead guy's leggings.
+Dull shoulderpads:0:1:5:0:Some dead guy's shoulderpads.
+Well Crafted armor:0:2:10:0:A good, sturn, simple armor, made by a good blacksmith.
+Thorn-covered cloak:0:1:25:1:Thorns of steel on which the enemy will empale himself.
+Drinker's cloak:0:0:25:2:Better use of potions.
+Skincloak:1:1:5:3:Made for people, by people, of people. Not recommanded to the faint of heart.
+Sorcerer's scarf:0:0:75:4:Mana surge the linen.
+The heaviest armor in the world:0:7:100:5:Everyone's gonna have the drop on you.
+Armor made of cheese:-1:-1:0:0:Why would you even put that on ???
+Cloak of feathers:0:0:90:6:Faster than lightning. And the ennemies.
+Armor8:3:1:20:0: "."
+Armor9:3:1:20:0: "."
+Void-carved Armor:-5:5:200:7:Made of nothingness
+
+
+
+"name":bonusATK:bonusDEF:price:"descript_bonus"
+Bonus (temporaire) :
+
+1 - epine (à faire)
+2 - bonus popo (à faire)
+3 - Stress max (à faire)
+4 - regen mana (à faire)
+5 - all enemies have initiative (à faire)
+6 - all enemies loss initiative (à faire)
+7 - ??? void carved (à faire)
+8 - Flail, touche tout le monde ??? (à faire)
+9 - GUnsword ??? (à faire)
+10 - cursed sword, no def (à faire)
+
